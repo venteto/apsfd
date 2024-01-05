@@ -1,0 +1,7 @@
+**/__pycache__/
+.venv/
+tmp/
+
+# notes.ptnx
+.python-version
+conf.py
